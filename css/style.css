@@ -36,5 +36,27 @@ h3 {
 
 .honolulu {
     background-color: #353a40;
-
 }
+.cards-categorias .col {
+	padding: 5px;
+	text-align: center;
+}
+.cards-categorias .card {
+    border-radius: 0;
+    border-color: #17a2b8;
+}
+.cards-categorias .col:first-child .card {
+    border-color: #007bff;
+}
+.cards-categorias .col:last-child .card {
+	border-color: #ffc107;
+}
+.form-tickets  {
+	
+}
+
+.form-tickets .btn {
+	background-color: #97c93e;
+	border-color: #97c93e;
+}
+
